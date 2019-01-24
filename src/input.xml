@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NA2_project>
+	<Input>
+		<Server_RTSP_port>55555</Server_RTSP_port>
+		<server_ip>localhost</server_ip>
+		<video_file>movie.Mjpeg</video_file>
+	</Input>
+</NA2_project>
